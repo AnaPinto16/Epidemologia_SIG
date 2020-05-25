@@ -10,8 +10,8 @@ A Itália é o segundo país com mais casos de coronavírus em todo o Mundo, ape
 
 ## **Origem dos dados**
 
-[Repositório 1](https://github.com/pcm-dpc/COVID-19/tree/master/dati-andamento-nazionale) - Situação epidemiológica Itália: Informação relativamente ao total de casos, novos casos, número de infetados, número de óbitos, número de recuperados, entre outros. (Desde 24/02-> atualidade).
+[Repositório 1](https://github.com/pcm-dpc/COVID-19) - Situação epidemiológica Itália: Informação relativamente ao total de casos, novos casos, número de infetados, número de óbitos, número de recuperados, entre outros. (Desde 24/02-> atualidade).
 
-[Repositório 2](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/) - Mapa Mundo
+[Repositório 2](http://www.diva-gis.org/datadown) - Mapa Itália
 
 
