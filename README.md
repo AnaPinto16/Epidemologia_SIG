@@ -23,6 +23,17 @@ Os ficheiros de ambos os repositórios encontram-se na pasta DATA.
 
 ## **Resultados**
 
+Através das funcionalidade do Jupyter, foi possível a criação de 2 mapas divididos por tons de cores diferentes, consoante o maior ou menor número de casos. 
+
+Nota: Cores mais claras -> Menor número de casos; Cores mais escuras -> Maior número de casos.
+
+O primeiro mapa gerado é referente ao número total de casos positivos em Itália, podendo-se verificar que a província com maior número de casos positivos corresponde a Lombardia com 25614.
+
+![Mapa Totale positivi](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/Geographic_distribution_totale_positiv.png)
+
+O segundo mapra gerado é relativo ao número de óbitos registados em Itália, verificando-se novamente que Lombardia é a província com mais casos registados, contando com 15840 óbitos.
+
+![Mapa Totale Deceduti](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/Geographic_distribution_totale_deceduti.png)
 
 
 
