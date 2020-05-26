@@ -11,7 +11,7 @@ A Itália é o sexto país com mais casos de coronavírus em todo o Mundo, antec
 A apresentação de dados como número de óbitos, novos casos, número de casos totais, entre outros, tornam-se mais facilmente interpretados em gráficos, tabelas ou imagens, podendo encontrar neste GITHUB informação relativamente aos dados do COVID-19 em Itália.
 
 ![Mapa províncias Itália](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/ITALIA.png)
-### Mapa gerado através do QGIS.
+###### Mapa gerado através do QGIS.
 
 ## **Origem dos dados**
 
