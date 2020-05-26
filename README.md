@@ -17,7 +17,7 @@ A apresentação de dados como número de óbitos, novos casos, número de casos
 
 Os ficheiros de ambos os repositórios encontram-se na pasta DATA.
 
-[Repositório 1](https://github.com/pcm-dpc/COVID-19) - Situação epidemiológica Itália: Informação relativamente ao total de casos, novos casos, número de infetados, número de óbitos, número de recuperados, entre outros. (Desde 24/02-> atualidade).
+[Repositório 1](https://github.com/pcm-dpc/COVID-19) - Situação epidemiológica Itália: Informação relativamente ao total de casos, novos casos, número de infetados, número de óbitos, número de recuperados, entre outros. (Desde 24/02-> 24/05).
 
 [Repositório 2](http://www.diva-gis.org/datadown) - Mapa Itália
 
@@ -45,11 +45,11 @@ De forma a comparar alguns parâmetros do dataset relativo à situação epidemi
 
 Os gráficos obtidos permitiram a comparação do Top5 e Bottom5 do número total de casos e número de óbidos e o Top5 de maior número de registos de pessoas afetadas com COVID-19 a recuperar em casa e hospitalizados.
 
-O gráfico VIII corresponde ao número de casos, desde 24/03 até 24/05, de Lombardia. 
+O gráfico VIII corresponde ao número de casos, desde 24/02 a 24/05, de Lombardia. 
 
 ![Mapa Totale Casi per giorni: Lombardia](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/casi_positivi_dias.png)
 
-O mesmo tipo de gráfico foi feito para o número de óbitos em Lombardia, desde 24/03 até 24/05.
+O mesmo tipo de gráfico foi feito para o número de óbitos em Lombardia, desde 24/02 a 24/05.
 
 ![Mapa Totale Deceduti per giorni: Lombardia](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/casi_deceduti_dias.png)
 
