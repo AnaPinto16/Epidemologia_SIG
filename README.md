@@ -11,6 +11,10 @@ A Itália é o sexto país com mais casos de coronavírus em todo o Mundo, antec
 A apresentação de dados como número de óbitos, novos casos, número de casos totais, entre outros, tornam-se mais facilmente interpretados em gráficos, tabelas ou imagens, podendo encontrar neste GITHUB informação relativamente aos dados do COVID-19 em Itália.
 
 ![Mapa províncias Itália](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/ITALIA.png)
+
+
+Como forma de apresentar também a atualidade dos dados registados em todo o mundo, foi realizado um notebook com os dados de todo o Mundo, presente na pasta MundoCovid.
+
 ###### Mapa gerado através do QGIS.
 
 ## **Origem dos dados**
@@ -54,6 +58,23 @@ O mesmo tipo de gráfico foi feito para o número de óbitos em Lombardia, desde
 ![Mapa Totale Deceduti per giorni: Lombardia](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/casi_deceduti_dias.png)
 
 
+##############################################MUNDO##########################################
 
+O trabalho feito para os dados recolhidos relativamente aos casos em todo o Mundo foram apresentados em gráficos uma vez que apenas se pretendia um estudo mais aprofundado no caso de Itália.
+
+Os mapas apresentados são relativos à Taxa de Recuperados, Taxa de Mortalidade e a comparação entre os dados relativos à Taxa de Recuperados e Mortalidade.
+
+![Mapa de Recuperados por COVID-19](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/MundoCovid/Imagens/RecuperadosMundo.png)
+
+![Mapa Mortalidade por COVID-19](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/MundoCovid/Imagens/MortalidadeMundo.png)
+
+![Mapa Mortalidade por COVID-19](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/MundoCovid/Imagens/RecvsMort.png)
+
+Como referido anteriormente, Itália encontra-se na 6ª posição de infetados por COVID-19, mas até 16/04 encontrava-se na 3ª posição (consoante a informação dos dados utilizados).
+
+![Mapa Mortalidade por COVID-19](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/MundoCovid/Imagens/Top10casos.png)
+
+O gráfico da taxa de mortalidade, apresenta comportamentos muito diferentes, no entanto Itália apresenta um comportamento relativamente constante.
+![Mapa Mortalidade por COVID-19](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/MundoCovid/Imagens/Top10morte.png)
 
 
