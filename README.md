@@ -58,7 +58,7 @@ O mesmo tipo de gráfico foi feito para o número de óbitos em Lombardia, desde
 ![Mapa Totale Deceduti per giorni: Lombardia](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/casi_deceduti_dias.png)
 
 
-# #############################################MUNDO##########################################
+# ###############MUNDO###############
 
 O trabalho feito para os dados recolhidos relativamente aos casos em todo o Mundo foram apresentados em gráficos uma vez que apenas se pretendia um estudo mais aprofundado no caso de Itália.
 
