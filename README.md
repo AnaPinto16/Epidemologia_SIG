@@ -60,6 +60,8 @@ O mesmo tipo de gráfico foi feito para o número de óbitos em Lombardia, desde
 
 # ###############MUNDO###############
 
+![Mapa Mundo](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/MundoCovid/Imagens/MundoCovid.png)
+
 O trabalho feito para os dados recolhidos relativamente aos casos em todo o Mundo foram apresentados em gráficos uma vez que apenas se pretendia um estudo mais aprofundado no caso de Itália.
 
 Os mapas apresentados são relativos à Taxa de Recuperados, Taxa de Mortalidade e a comparação entre os dados relativos à Taxa de Recuperados e Mortalidade.
