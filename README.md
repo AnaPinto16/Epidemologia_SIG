@@ -81,7 +81,15 @@ O gráfico da taxa de mortalidade, apresenta comportamentos muito diferentes, no
 ![Mapa Mortalidade por COVID-19](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/MundoCovid/Imagens/Top10morte.png)
 
 
+# Melhores sites para rastrear o coronavírus (Covid-19):
+
+Gisanddata: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+NextStrain: https://nextstrain.org/ncov/global
+Bing: https://bing.com/covid/local
+OMS: https://covid19.who.int/
+
 # Trabalho realizado por:
 Ana Pinto a93660 MIEBIOM
 
 27/05/2020
+
