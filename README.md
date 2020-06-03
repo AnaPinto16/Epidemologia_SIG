@@ -57,14 +57,13 @@ Uma vez que Lombardia foi a província que obteve os valores mais elevados para 
  
 ![Mapa Totale Casi: Lombardia](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/totale_casi.png)
 
-O gráfico VIII corresponde ao número de casos, desde 24/02 a 24/05, de Lombardia. 
+O presente gráfico apresenta o número total de casos positivos desde 24/02 a 24/05.
 
-![Mapa Totale Casi per giorni: Lombardia](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/casi_positivi.png)
+![Mapa Casi positivi: Lombardia](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/casi_positivi_dias.png)
 
  ## Total de óbitos
  
-![Mapa Deceduti casi: Lombardia]
-(https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/deceduti_casi.png)
+![Mapa Deceduti casi: Lombardia](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/deceduti_casi.png)
 
 O mesmo tipo de gráfico foi feito para o número de óbitos em Lombardia, desde 24/02 a 24/05.
 
