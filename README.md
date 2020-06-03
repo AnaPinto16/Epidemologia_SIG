@@ -73,12 +73,12 @@ O mesmo tipo de gráfico foi feito para o número de óbitos em Lombardia, desde
 
 Nesta secção é possível observar a distribuição do número de mortes em cada província, começando no topo com a província com maior número de mortes, diminuíndo à medida que se desce no gráfico.
 
-![Gráfico óbitos por Província]
-(https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/DecedutiITALY.png)
+![Gráfico óbitos por Província](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/DecedutiITALY.png)
 
 # ###############MUNDO###############
 
 ![Mapa Mundo](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/MundoCovid/Imagens/MundoCovid.png)
+
 ###### Mapa gerado através do QGIS.
 
 O trabalho feito para os dados recolhidos relativamente aos casos em todo o Mundo foram apresentados em gráficos uma vez que apenas se pretendia um estudo mais aprofundado no caso de Itália.
