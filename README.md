@@ -83,10 +83,10 @@ O gráfico da taxa de mortalidade, apresenta comportamentos muito diferentes, no
 
 # Melhores sites para rastrear o coronavírus (Covid-19):
 
-Gisanddata: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
-NextStrain: https://nextstrain.org/ncov/global
-Bing: https://bing.com/covid/local
-OMS: https://covid19.who.int/
+- Gisanddata: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+- NextStrain: https://nextstrain.org/ncov/global
+- Bing: https://bing.com/covid/local
+- OMS: https://covid19.who.int/
 
 # Trabalho realizado por:
 Ana Pinto a93660 MIEBIOM
