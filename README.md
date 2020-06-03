@@ -53,15 +53,17 @@ Os gráficos obtidos permitiram a comparação do Top5 e Bottom5 do número tota
 
 Uma vez que Lombardia foi a província que obteve os valores mais elevados para os parâmetros em estudo, como é possível verificar no gráfico seguinte, encontram-se apresentados gráficos e tabelas relativamente aos seus dados.
 
-![Mapa Totale Casi: Lombardia]
-(https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/totale_casi.png)
+ ## Total de casos de infetados
+ 
+![Mapa Totale Casi: Lombardia](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/totale_casi.png)
 
 O gráfico VIII corresponde ao número de casos, desde 24/02 a 24/05, de Lombardia. 
 
-![Mapa Totale Casi per giorni: Lombardia](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/casi_positivi_dias.png)
+![Mapa Totale Casi per giorni: Lombardia](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/casi_positivi.png)
 
+ ## Total de óbitos
+ 
 ![Mapa Deceduti casi: Lombardia]
-
 (https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/deceduti_casi.png)
 
 O mesmo tipo de gráfico foi feito para o número de óbitos em Lombardia, desde 24/02 a 24/05.
@@ -72,8 +74,7 @@ O mesmo tipo de gráfico foi feito para o número de óbitos em Lombardia, desde
 
 Nesta secção é possível observar a distribuição do número de mortes em cada província, começando no topo com a província com maior número de mortes, diminuíndo à medida que se desce no gráfico.
 
-![Gráfico òbitos por Província]
-
+![Gráfico óbitos por Província]
 (https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/AtualITALY.png)
 
 # ###############MUNDO###############
