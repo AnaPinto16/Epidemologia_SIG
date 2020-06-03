@@ -55,7 +55,7 @@ Uma vez que Lombardia foi a província que obteve os valores mais elevados para 
 
  ## Total de casos de infetados
  
-![Mapa Totale Casi: Lombardia](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/totale_casi.png | width=100)
+![Mapa Totale Casi: Lombardia](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/totale_casi.png)
 
 O presente gráfico apresenta o número total de casos positivos desde 24/02 a 24/05.
 
