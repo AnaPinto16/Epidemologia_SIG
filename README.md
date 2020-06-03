@@ -69,9 +69,15 @@ O mesmo tipo de gráfico foi feito para o número de óbitos em Lombardia, desde
 
 ![Mapa Totale Deceduti per giorni: Lombardia](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/casi_deceduti_dias.png)
 
+## Total de casos de recuperados
+
+![Gráfico Numero di recuperati in Lombardia per giorni](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/recuperados.png)
+
+
+
 ## Distribuição do nº de óbitos por província
 
-Nesta secção é possível observar a distribuição do número de mortes em cada província, começando no topo com a província com maior número de mortes, diminuíndo à medida que se desce no gráfico.
+Em suma, nesta secção é possível observar a distribuição do número de mortes em cada província, começando no topo com a província com maior número de mortes, diminuíndo à medida que se desce no gráfico.
 
 ![Gráfico óbitos por Província](https://github.com/AnaPinto16/Epidemologia_SIG/blob/master/ItaliaCovid/Imagens/DecedutiITALY.png)
 
