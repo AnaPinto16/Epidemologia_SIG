@@ -32,6 +32,22 @@ O mesmo gráfico foi desenvolvido para o número de mortes no mesmo intervalo de
 
 ![Gráfico IT_inicio_mortes](https://github.com/AnaPinto16/Epidemologia_SIG/tree/master/NEW/Imagens/Total_IT_inicio_mortes.png)
 
+
+# Caso de Estudo II: Testes realizados
+
+Uma das principais preocupações aquando do aparecimento do vírus foi a deteção do vírus numa pessoa, de modo a atuar desde o primeiro dia de forma a combater o vírus. Este estudo encontra-se no notebook "Testes_mundo" onde são apresentados os mesmos tipos de gráficos que nos notebooks anteriores, com a diferença que neste notebook o objetivo era a visualização das curvas dos testes realizados em países desenvolvidos e nos países não desenvolvidos. É possível concluir, como esperado, que o número de testes disponibilizados aos países não desenvolvidos é muito inferior aos países desenvolvidos por diferentes razões. Os gráficos seguintes mostram a comparação da curva dos USA e Nepal, uma vez que foram os que apresentaram valores mais elevados, verificando-se que o número de testes feitos para o Nepal é aproximadamente 0, enquanto que a curva dos USA cresce exponencialmente. Uma das razões para este desfazamento de testes, encontra-se no gráfico que compara o número de mortes e número de casos infetados, sendo que no Nepal ronda valores aproximados do 0.
+
+## Gráfico comparativo de testes feitos em USA e Nepal
+![Gráfico_vs_testes](https://github.com/AnaPinto16/Epidemologia_SIG/tree/master/NEW/Imagens/testesvs.png)
+
+## Gráfico comparativo de infetados em USA e Nepal
+
+![Gráfico_vs_infetados](https://github.com/AnaPinto16/Epidemologia_SIG/tree/master/NEW/Imagens/infetadosvs.png)
+
+## Gráfico comparativo de mortos em USA e Nepal
+
+![Gráfico_vs_mortos](https://github.com/AnaPinto16/Epidemologia_SIG/tree/master/NEW/Imagens/mortesvs.png)
+
 # Projeto desenvolvido por:
 
 Ana Pinto a93660 MIEBIOM
