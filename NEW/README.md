@@ -50,5 +50,6 @@ Uma das principais preocupações aquando do aparecimento do vírus foi a deteç
 
 # Projeto desenvolvido por:
 
-Ana Pinto a93660 MIEBIOM
-04/06/2020
+-Ana Pinto a93660 MIEBIOM
+
+-04/06/2020
