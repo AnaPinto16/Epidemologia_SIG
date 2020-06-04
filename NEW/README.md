@@ -32,3 +32,7 @@ O mesmo gráfico foi desenvolvido para o número de mortes no mesmo intervalo de
 
 ![Gráfico IT_inicio_mortes](https://github.com/AnaPinto16/Epidemologia_SIG/tree/master/NEW/Imagens/Total_IT_inicio_mortes.png)
 
+# Projeto desenvolvido por:
+
+Ana Pinto a93660 MIEBIOM
+04/06/2020
